@@ -1,6 +1,7 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Mauro and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
+<p> My name is Maxim and I'm a versatile developer, from <img src="[https://cdn-icons-png.flaticon.com/128/197/197386.png](https://www.flaticon.com/free-icon/ukraine_197572?term=ukrain&page=1&position=1&origin=search&related_id=197572)" width="17" /> <b>Ukraine</b>. </p>
+
 
 ## About me
 
