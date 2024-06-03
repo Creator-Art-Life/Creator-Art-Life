@@ -1,9 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p>Меня зовут Максим и я универсальный разработчик из <img src="![image](https://github.com/Creator-Art-Life/Creator-Art-Life/assets/137006062/a93c2146-9e6a-4f3d-91a6-55f907aef7fc)
-" width="17" /> <b>Украины</b>.</p>
-
-
+<p> My name is Mauro and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
 
 ## About me
 
@@ -53,3 +50,4 @@
 <a href="https://storybook.js.org" target="_blank">
   <img align="left" title="Storybook" alt="Storybook" width="40px" src="./assets/storybook-logo.svg" />
 </a>
+
