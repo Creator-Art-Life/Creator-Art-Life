@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Maxim and I'm a versatile developer, from <img src="https://www.flaticon.com/free-icon/ukraine_197572?term=ukraine&page=1&position=2&origin=search" width="17" /> <b>Ukraine</b>. </p>
+<p>Меня зовут Максим и я универсальный разработчик из <img src="https://www.flaticon.com/svg/static/icons/svg/197/197572.svg" width="17" /> <b>Украины</b>.</p>
 
 
 ## About me
